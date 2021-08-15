@@ -1,0 +1,20 @@
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning3\Inlämning 3\Inlämning 3\bin\Debug\Inlämning 3.exe.config
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning3\Inlämning 3\Inlämning 3\bin\Debug\Inlämning 3.exe
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning3\Inlämning 3\Inlämning 3\bin\Debug\Inlämning 3.pdb
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning3\Inlämning 3\Inlämning 3\obj\Debug\Inlämning 3.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning3\Inlämning 3\Inlämning 3\obj\Debug\Inlämning_3.Form1.resources
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning3\Inlämning 3\Inlämning 3\obj\Debug\Inlämning_3.Properties.Resources.resources
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning3\Inlämning 3\Inlämning 3\obj\Debug\Inlämning 3.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning3\Inlämning 3\Inlämning 3\obj\Debug\Inlämning 3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning3\Inlämning 3\Inlämning 3\obj\Debug\Inlämning 3.exe
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning3\Inlämning 3\Inlämning 3\obj\Debug\Inlämning 3.pdb
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning3\Inlämning 3\Inlämning 3\bin\Debug\Inlämning 3.exe.config
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning3\Inlämning 3\Inlämning 3\bin\Debug\Inlämning 3.exe
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning3\Inlämning 3\Inlämning 3\bin\Debug\Inlämning 3.pdb
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning3\Inlämning 3\Inlämning 3\obj\Debug\Inlämning 3.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning3\Inlämning 3\Inlämning 3\obj\Debug\Inlämning_3.Form1.resources
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning3\Inlämning 3\Inlämning 3\obj\Debug\Inlämning_3.Properties.Resources.resources
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning3\Inlämning 3\Inlämning 3\obj\Debug\Inlämning 3.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning3\Inlämning 3\Inlämning 3\obj\Debug\Inlämning 3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning3\Inlämning 3\Inlämning 3\obj\Debug\Inlämning 3.exe
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning3\Inlämning 3\Inlämning 3\obj\Debug\Inlämning 3.pdb
