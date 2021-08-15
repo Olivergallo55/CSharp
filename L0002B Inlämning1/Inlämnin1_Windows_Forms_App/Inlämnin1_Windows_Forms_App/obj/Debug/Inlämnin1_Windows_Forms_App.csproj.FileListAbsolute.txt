@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämnin1_Windows_Forms_App\Inlämnin1_Windows_Forms_App\bin\Debug\Inlämnin1_Windows_Forms_App.exe.config
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämnin1_Windows_Forms_App\Inlämnin1_Windows_Forms_App\bin\Debug\Inlämnin1_Windows_Forms_App.exe
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämnin1_Windows_Forms_App\Inlämnin1_Windows_Forms_App\bin\Debug\Inlämnin1_Windows_Forms_App.pdb
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämnin1_Windows_Forms_App\Inlämnin1_Windows_Forms_App\obj\Debug\Inlämnin1_Windows_Forms_App.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämnin1_Windows_Forms_App\Inlämnin1_Windows_Forms_App\obj\Debug\Inlämnin1_Windows_Forms_App.Form1.resources
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämnin1_Windows_Forms_App\Inlämnin1_Windows_Forms_App\obj\Debug\Inlämnin1_Windows_Forms_App.Properties.Resources.resources
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämnin1_Windows_Forms_App\Inlämnin1_Windows_Forms_App\obj\Debug\Inlämnin1_Windows_Forms_App.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämnin1_Windows_Forms_App\Inlämnin1_Windows_Forms_App\obj\Debug\Inlämnin1_Windows_Forms_App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämnin1_Windows_Forms_App\Inlämnin1_Windows_Forms_App\obj\Debug\Inlämnin1_Windows_Forms_App.exe
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämnin1_Windows_Forms_App\Inlämnin1_Windows_Forms_App\obj\Debug\Inlämnin1_Windows_Forms_App.pdb

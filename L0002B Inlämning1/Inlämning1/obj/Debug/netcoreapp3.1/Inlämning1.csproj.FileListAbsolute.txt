@@ -1,0 +1,26 @@
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning1\Inlämning1\bin\Debug\netcoreapp3.1\Inlämning1.exe
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning1\Inlämning1\bin\Debug\netcoreapp3.1\Inlämning1.deps.json
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning1\Inlämning1\bin\Debug\netcoreapp3.1\Inlämning1.runtimeconfig.json
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning1\Inlämning1\bin\Debug\netcoreapp3.1\Inlämning1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning1\Inlämning1\bin\Debug\netcoreapp3.1\Inlämning1.dll
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning1\Inlämning1\bin\Debug\netcoreapp3.1\Inlämning1.pdb
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning1\Inlämning1\obj\Debug\netcoreapp3.1\Inlämning1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning1\Inlämning1\obj\Debug\netcoreapp3.1\Inlämning1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning1\Inlämning1\obj\Debug\netcoreapp3.1\Inlämning1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning1\Inlämning1\obj\Debug\netcoreapp3.1\Inlämning1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning1\Inlämning1\obj\Debug\netcoreapp3.1\Inlämning1.dll
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning1\Inlämning1\obj\Debug\netcoreapp3.1\Inlämning1.pdb
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning1\Inlämning1\obj\Debug\netcoreapp3.1\Inlämning1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämning1\bin\Debug\netcoreapp3.1\Inlämning1.exe
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämning1\bin\Debug\netcoreapp3.1\Inlämning1.deps.json
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämning1\bin\Debug\netcoreapp3.1\Inlämning1.runtimeconfig.json
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämning1\bin\Debug\netcoreapp3.1\Inlämning1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämning1\bin\Debug\netcoreapp3.1\Inlämning1.dll
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämning1\bin\Debug\netcoreapp3.1\Inlämning1.pdb
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämning1\obj\Debug\netcoreapp3.1\Inlämning1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämning1\obj\Debug\netcoreapp3.1\Inlämning1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämning1\obj\Debug\netcoreapp3.1\Inlämning1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämning1\obj\Debug\netcoreapp3.1\Inlämning1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämning1\obj\Debug\netcoreapp3.1\Inlämning1.dll
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämning1\obj\Debug\netcoreapp3.1\Inlämning1.pdb
+C:\Users\Admin\Desktop\L0002B_Oliver_Gallo_C#\L0002B Inlämning1\Inlämning1\obj\Debug\netcoreapp3.1\Inlämning1.genruntimeconfig.cache
