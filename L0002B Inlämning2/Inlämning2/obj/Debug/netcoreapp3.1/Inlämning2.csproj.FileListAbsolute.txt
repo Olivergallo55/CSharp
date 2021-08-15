@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning2\Inlämning2\bin\Debug\netcoreapp3.1\Inlämning2.exe
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning2\Inlämning2\bin\Debug\netcoreapp3.1\Inlämning2.deps.json
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning2\Inlämning2\bin\Debug\netcoreapp3.1\Inlämning2.runtimeconfig.json
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning2\Inlämning2\bin\Debug\netcoreapp3.1\Inlämning2.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning2\Inlämning2\bin\Debug\netcoreapp3.1\Inlämning2.dll
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning2\Inlämning2\bin\Debug\netcoreapp3.1\Inlämning2.pdb
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning2\Inlämning2\obj\Debug\netcoreapp3.1\Inlämning2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning2\Inlämning2\obj\Debug\netcoreapp3.1\Inlämning2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning2\Inlämning2\obj\Debug\netcoreapp3.1\Inlämning2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning2\Inlämning2\obj\Debug\netcoreapp3.1\Inlämning2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning2\Inlämning2\obj\Debug\netcoreapp3.1\Inlämning2.dll
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning2\Inlämning2\obj\Debug\netcoreapp3.1\Inlämning2.pdb
+C:\Users\Admin\Desktop\C#_Luleå\Inlämning2\Inlämning2\obj\Debug\netcoreapp3.1\Inlämning2.genruntimeconfig.cache
